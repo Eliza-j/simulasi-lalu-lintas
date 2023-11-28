@@ -23,14 +23,15 @@ Simulasi bisa dijalankan melalui GUI menggunakan `mainGUI.m`, atau juga melalui 
 Setiap simulasi, pengguna harus mendefinisikan parameter-parameter yang akan digunakan. Hasil simulasi dapat diakses melalui folder `log`.
 
 ## Gallery
+
 ![alt text](https://github.com/Eliza-j/simulasi-lalu-lintas/blob/main/screenshots/contoh-simulasi.jpg)
-*Tampilan jalan yang disimulasikan*
+Tampilan jalan yang disimulasikan
 
 ![alt text](https://github.com/Eliza-j/simulasi-lalu-lintas/blob/main/screenshots/hasil-simulasi.jpg)
-*Hasil satu simulasi*
+Hasil satu simulasi
 
 ![alt text](https://github.com/Eliza-j/simulasi-lalu-lintas/blob/main/screenshots/tampilan-gui.jpg)
-*Tampilan GUI*
+Tampilan GUI
 
 
 ## Reference
