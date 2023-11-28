@@ -15,9 +15,15 @@ Simulasi dijalankan secara iteratif, di mana satu iterasi menggambarkan kondisi 
 
 ## How to Use
 
+Software:
+Octave 6.2.0
+
 Simulasi bisa dijalankan melalui GUI menggunakan `mainGUI.m`, atau juga melalui command line menggunakan `simulasiLaluLintas.m`. Untuk menjalankan sejumlah simulasi dalam waktu bersamaan, maka gunakan `simulasiLaluLintasBatch.m` melalui command line.
 
 Setiap simulasi, pengguna harus mendefinisikan parameter-parameter yang akan digunakan. Hasil simulasi dapat diakses melalui folder `log`.
+
+## Gallery
+
 
 ## Reference
 
